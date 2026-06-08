@@ -54,7 +54,7 @@ React Frontend
   └── Firestore Database
 ```
 
-## Team Contributions
+## Contributions
 
 ### Dhaval Pandit
 
@@ -62,15 +62,9 @@ React Frontend
 * Implemented Firebase Authentication
 * Integrated image assets and responsive layouts
 * Enhanced user experience and navigation
-
-### Adarsh
-
 * Developed destination search functionality
 * Built trip planning forms
 * Implemented trip history management
-
-### Sai
-
 * Integrated Google Gemini AI
 * Developed backend logic
 * Created itinerary generation workflows
